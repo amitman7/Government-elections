@@ -1,12 +1,16 @@
 # Government-elections simulator 
-Object-oriented C++ election simulation: emphasizes the use of classes, implementing the rule of 5, and memory leaks handling.
+ Object-oriented C++ election simulation project completed during my CS degree. emphasizes the use of classes, implementing the rule of 5, and memory leaks handling.
 
 #### Overview:
 In a faraway democracy, there is a political crisis, they can't form a government in
 years. The reason is complex promises about whether to cooperate with other parties.
 We need to help the politicians find a coalition!
 
-In this assignment we built a "Coalition race" simulator. and report the first coalition to succesfully form.
+After 5 elections, the president decided to change the method of forming a coalition by
+letting multiple "agents" from different parties try their best to create a 61 coalition as fast as
+possible.
+
+In this assignment we built a "Coalition race" simulator. and report the first coalition to succesfully form (or failure).
 
 The simulator should be based on a graph that contains:
 
